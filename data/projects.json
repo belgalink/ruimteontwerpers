@@ -125,28 +125,6 @@
   "featured": 6
  },
  {
-  "slug": "begijnhofdries-gent",
-  "title": "Begijnhofdriespark",
-  "place": "Gent",
-  "location": "Begijnhofdries, Gent",
-  "year": "",
-  "category": "Parken",
-  "description": "Ontwerp en heraanleg van het Begijnhofdriespark te Gent.",
-  "client": "Groendienst Stad Gent",
-  "size": "6.000 m²",
-  "status": "Uitgevoerd",
-  "partners": [
-   "Denis Dujardin"
-  ],
-  "images": [
-   "29fd7a_e535045cc1df4a30b420f38ac6746102~mv2.jpg",
-   "29fd7a_c8034810de214ad8a750d710302498c3~mv2.jpg",
-   "29fd7a_2c9c3ea93c724e668eeb8ce158ff1434~mv2.jpg"
-  ],
-  "cover": "29fd7a_e535045cc1df4a30b420f38ac6746102~mv2.jpg",
-  "featured": 7
- },
- {
   "slug": "oude-volkskliniek-gent",
   "title": "Oude Volkskliniek",
   "place": "Gent",
