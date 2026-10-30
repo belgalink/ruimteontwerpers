@@ -226,13 +226,16 @@ p {
 
 /* ---------------------------- home: slides ---------------------------- */
 
+/* Slide transitions are animated in HomeSlides.tsx, so scroll-behavior stays
+   on auto — "smooth" would hijack every scrollTop step of that animation.
+   Snapping is kept for touch and as the no-JS fallback. */
 .home-slides {
   height: 100vh;
   height: 100svh;
   overflow-y: scroll;
   scroll-snap-type: y mandatory;
-  scroll-behavior: smooth;
   scrollbar-width: none;
+  overscroll-behavior: contain;
 }
 
 .home-slides::-webkit-scrollbar {

@@ -53,7 +53,7 @@ export default function AboutPage() {
               <p>
                 Projecten als het Lievepark in Gent, de educatieve duinentuin van
                 Bezoekerscentrum De Duinpanne in De Panne, het Eilandbos in
-                Sint-Lievens-Houtem en het Denderpark in Denderleeuw tonen hoe
+                Sint-Lievens-Houtem en het Herman Pillaertpark in Gent tonen hoe
                 het bureau werkt rond erfgoed, natuurinrichting, publieke ruimte
                 en het dagelijkse gebruik van open ruimte.
               </p>
